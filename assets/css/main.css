@@ -1,0 +1,11 @@
+
+body{background-color: #2D2D2D;}
+h1,h2,h3,h5{color: white;}
+.well-img{height: 150px;}
+.top-buffer{margin: 30px;}
+.answer{padding: 15px 20px;border-radius: 10px;border: 1px solid #bbb;}
+.answer:hover{cursor: pointer;}
+.image-answer{cursor: pointer; height:330px;width: 100%;overflow: hidden;border-radius: 10px;margin-bottom: 20px;}
+.image-answer img{width: 100%; height: auto;}
+.image-selected{border: 3px solid #56afdc;}
+.marqueetag{color: white;}
